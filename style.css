@@ -197,14 +197,10 @@ img { max-width: 100%; height: auto; }
 /* topo do projeto: info de um lado, imagem do outro, alternando */
 .suite-top {
   display: grid;
-  grid-template-columns: minmax(0, .8fr) minmax(0, 1.2fr);
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
   gap: clamp(1.8rem, 4vw, 3.2rem);
   align-items: center;
   margin-bottom: 1.8rem;
-}
-
-.suite:nth-of-type(even) .suite-top {
-  grid-template-columns: minmax(0, 1.2fr) minmax(0, .8fr);
 }
 
 .suite:nth-of-type(even) .suite-top .suite-head { order: 2; }
@@ -212,7 +208,8 @@ img { max-width: 100%; height: auto; }
 
 .suite-head {
   display: grid;
-  grid-template-columns: auto 1fr;
+  grid-template-columns: auto minmax(0, 1fr);
+  min-width: 0;
   gap: clamp(1.1rem, 2.5vw, 1.8rem);
   align-items: center;
 }
@@ -256,11 +253,12 @@ img { max-width: 100%; height: auto; }
 .suite-title {
   font-family: "Archivo Black", sans-serif;
   font-weight: 400;
-  font-size: clamp(1.5rem, 4vw, 2.6rem);
+  font-size: clamp(1.5rem, 3.4vw, 2.3rem);
   line-height: 1.05;
   letter-spacing: -.01em;
   text-transform: uppercase;
   color: var(--charcoal);
+  overflow-wrap: break-word;
 }
 
 .suite-title a { text-decoration: none; }
