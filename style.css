@@ -471,32 +471,46 @@ pre code {
 }
 
 /* --------- competências --------- */
-.comp-list {
-  list-style: none;
-  columns: 2;
-  column-gap: 2.5rem;
+.comp-table {
+  width: 100%;
+  border-collapse: collapse;
   margin: .6rem 0 1.6rem;
-}
-
-.comp-list li {
-  padding: .45rem 0 .45rem 1.3rem;
-  position: relative;
-  border-bottom: 1px dotted rgba(30, 34, 33, .35);
-  break-inside: avoid;
   font-size: .95rem;
+  border-top: var(--rule);
+  border-bottom: var(--rule);
 }
 
-.comp-list li::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: .85rem;
-  width: .5rem;
-  height: .5rem;
-  background: var(--mustard);
+.comp-table th {
+  font-family: "Courier Prime", monospace;
+  font-size: .78rem;
+  text-transform: uppercase;
+  letter-spacing: .12em;
+  text-align: left;
+  padding: .55rem .75rem;
+  background: var(--charcoal);
+  color: var(--cream);
 }
 
-.suite:nth-of-type(even) .comp-list li::before { background: var(--olive); }
+.comp-table td {
+  padding: .45rem .75rem;
+  border-bottom: 1px dotted rgba(30, 34, 33, .35);
+  vertical-align: top;
+}
+
+.comp-table tbody tr:last-child td { border-bottom: none; }
+
+.comp-table td:first-child { font-weight: 700; }
+
+.comp-table td:last-child {
+  font-family: "Courier Prime", monospace;
+  font-size: .88rem;
+  white-space: nowrap;
+  color: var(--mustard);
+}
+
+.comp-table tbody tr:nth-child(even) { background: var(--cream-dark); }
+
+.suite:nth-of-type(even) .comp-table td:last-child { color: var(--olive); }
 
 /* ============================================================
    CONTATO (rodapé)
@@ -564,5 +578,6 @@ pre code {
   .suite-head { grid-template-columns: 1fr; text-align: center; }
   .key-tag { margin: 0 auto; max-width: 130px; }
   .suite-tag { margin-left: auto; margin-right: auto; }
-  .comp-list { columns: 1; }
+  .comp-table { font-size: .88rem; }
+  .comp-table td:last-child { white-space: normal; }
 }

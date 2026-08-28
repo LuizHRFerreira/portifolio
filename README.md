@@ -364,17 +364,22 @@ Essa experiência contribuiu para desenvolver uma primeira noção de <strong>qu
 
 <h3>💻 Competências técnicas</h3>
 
-<ul>
-  <li><strong>Lógica de programação</strong>: básico/intermediário</li>
-  <li><strong>TypeScript</strong>: básico</li>
-  <li><strong>Git e GitHub</strong>: básico/intermediário</li>
-  <li><strong>Estruturas condicionais e funções</strong>: básico/intermediário</li>
-  <li><strong>Validação de entradas</strong>: básico/intermediário</li>
-  <li><strong>Tratamento de erros</strong>: básico/intermediário</li>
-  <li><strong>Modularização de código</strong>: básico</li>
-  <li><strong>Aplicações de terminal</strong>: básico/intermediário</li>
-  <li><strong>Conversão entre bases numéricas</strong>: básico/intermediário</li>
-</ul>
+<table>
+  <thead>
+    <tr><th>Competência</th><th>Nível</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Lógica de programação</td><td>básico/intermediário</td></tr>
+    <tr><td>TypeScript</td><td>básico</td></tr>
+    <tr><td>Git e GitHub</td><td>básico/intermediário</td></tr>
+    <tr><td>Estruturas condicionais e funções</td><td>básico/intermediário</td></tr>
+    <tr><td>Validação de entradas</td><td>básico/intermediário</td></tr>
+    <tr><td>Tratamento de erros</td><td>básico/intermediário</td></tr>
+    <tr><td>Modularização de código</td><td>básico</td></tr>
+    <tr><td>Aplicações de terminal</td><td>básico/intermediário</td></tr>
+    <tr><td>Conversão entre bases numéricas</td><td>básico/intermediário</td></tr>
+  </tbody>
+</table>
 
 <h3>🤝 Soft Skills trabalhadas</h3>
 
@@ -623,18 +628,23 @@ Por fim, a experiência ajudou a desenvolver minha <strong>disciplina técnica</
 
   <h3>💻 Competências técnicas</h3>
 
-  <ul>
-    <li><strong>Product Owner</strong>: básico/intermediário</li>
-    <li><strong>Gestão de produto</strong>: básico/intermediário</li>
-    <li><strong>Scrum e desenvolvimento ágil</strong>: básico/intermediário</li>
-    <li><strong>Documentação de software</strong>: intermediário</li>
-    <li><strong>README e documentação técnica</strong>: intermediário</li>
-    <li><strong>Modelagem de sistemas</strong>: básico/intermediário</li>
-    <li><strong>DER</strong>: básico</li>
-    <li><strong>Wireframes</strong>: básico/intermediário</li>
-    <li><strong>Burndown e acompanhamento de sprints</strong>: básico/intermediário</li>
-    <li><strong>Análise e organização de requisitos</strong>: básico/intermediário</li>
-  </ul>
+  <table>
+    <thead>
+      <tr><th>Competência</th><th>Nível</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Product Owner</td><td>básico/intermediário</td></tr>
+      <tr><td>Gestão de produto</td><td>básico/intermediário</td></tr>
+      <tr><td>Scrum e desenvolvimento ágil</td><td>básico/intermediário</td></tr>
+      <tr><td>Documentação de software</td><td>intermediário</td></tr>
+      <tr><td>README e documentação técnica</td><td>intermediário</td></tr>
+      <tr><td>Modelagem de sistemas</td><td>básico/intermediário</td></tr>
+      <tr><td>DER</td><td>básico</td></tr>
+      <tr><td>Wireframes</td><td>básico/intermediário</td></tr>
+      <tr><td>Burndown e acompanhamento de sprints</td><td>básico/intermediário</td></tr>
+      <tr><td>Análise e organização de requisitos</td><td>básico/intermediário</td></tr>
+    </tbody>
+  </table>
 
   <h3>🤝 Soft Skills trabalhadas</h3>
   <p align="justify">
@@ -1072,22 +1082,27 @@ Por fim, a experiência ajudou a desenvolver minha <strong>disciplina técnica</
 
   <h3>💻 Competências técnicas</h3>
 
-  <ul>
-    <li><strong>Vue.js</strong>: intermediário</li>
-    <li><strong>JavaScript</strong>: intermediário</li>
-    <li><strong>Java</strong>: básico/intermediário</li>
-    <li><strong>Spring Boot</strong>: básico/intermediário</li>
-    <li><strong>PostgreSQL</strong>: básico/intermediário</li>
-    <li><strong>Supabase</strong>: básico/intermediário</li>
-    <li><strong>Consumo de APIs REST</strong>: intermediário</li>
-    <li><strong>Integração frontend/backend</strong>: intermediário</li>
-    <li><strong>Autenticação e tokens</strong>: básico/intermediário</li>
-    <li><strong>Arquitetura de frontend</strong>: básico/intermediário</li>
-    <li><strong>Componentização e reutilização de código</strong>: intermediário</li>
-    <li><strong>Regras de negócio</strong>: básico/intermediário</li>
-    <li><strong>Manipulação e cálculo de datas e horários</strong>: básico/intermediário</li>
-    <li><strong>Git e GitHub</strong>: intermediário</li>
-  </ul>
+  <table>
+    <thead>
+      <tr><th>Competência</th><th>Nível</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Vue.js</td><td>intermediário</td></tr>
+      <tr><td>JavaScript</td><td>intermediário</td></tr>
+      <tr><td>Java</td><td>básico/intermediário</td></tr>
+      <tr><td>Spring Boot</td><td>básico/intermediário</td></tr>
+      <tr><td>PostgreSQL</td><td>básico/intermediário</td></tr>
+      <tr><td>Supabase</td><td>básico/intermediário</td></tr>
+      <tr><td>Consumo de APIs REST</td><td>intermediário</td></tr>
+      <tr><td>Integração frontend/backend</td><td>intermediário</td></tr>
+      <tr><td>Autenticação e tokens</td><td>básico/intermediário</td></tr>
+      <tr><td>Arquitetura de frontend</td><td>básico/intermediário</td></tr>
+      <tr><td>Componentização e reutilização de código</td><td>intermediário</td></tr>
+      <tr><td>Regras de negócio</td><td>básico/intermediário</td></tr>
+      <tr><td>Manipulação e cálculo de datas e horários</td><td>básico/intermediário</td></tr>
+      <tr><td>Git e GitHub</td><td>intermediário</td></tr>
+    </tbody>
+  </table>
 
   <h3>🤝 Soft Skills trabalhadas</h3>
 
@@ -1645,23 +1660,28 @@ Por fim, a experiência ajudou a desenvolver minha <strong>disciplina técnica</
 
   <h3>💻 Competências técnicas</h3>
 
-  <ul>
-    <li><strong>Vue.js 3</strong>: intermediário</li>
-    <li><strong>TypeScript</strong>: intermediário</li>
-    <li><strong>Java 17</strong>: intermediário</li>
-    <li><strong>Spring Boot</strong>: intermediário</li>
-    <li><strong>Desenvolvimento Full Stack</strong>: intermediário</li>
-    <li><strong>APIs REST</strong>: intermediário</li>
-    <li><strong>Integração frontend/backend</strong>: intermediário</li>
-    <li><strong>JWT</strong>: básico/intermediário</li>
-    <li><strong>Spring Security</strong>: básico/intermediário</li>
-    <li><strong>Autenticação e autorização</strong>: básico/intermediário</li>
-    <li><strong>PostgreSQL e persistência de dados</strong>: intermediário</li>
-    <li><strong>JPA / Hibernate</strong>: básico/intermediário</li>
-    <li><strong>Processamento e transformação de dados</strong>: intermediário</li>
-    <li><strong>Rotinas agendadas e automação</strong>: básico/intermediário</li>
-    <li><strong>Git e GitHub</strong>: intermediário</li>
-  </ul>
+  <table>
+    <thead>
+      <tr><th>Competência</th><th>Nível</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Vue.js 3</td><td>intermediário</td></tr>
+      <tr><td>TypeScript</td><td>intermediário</td></tr>
+      <tr><td>Java 17</td><td>intermediário</td></tr>
+      <tr><td>Spring Boot</td><td>intermediário</td></tr>
+      <tr><td>Desenvolvimento Full Stack</td><td>intermediário</td></tr>
+      <tr><td>APIs REST</td><td>intermediário</td></tr>
+      <tr><td>Integração frontend/backend</td><td>intermediário</td></tr>
+      <tr><td>JWT</td><td>básico/intermediário</td></tr>
+      <tr><td>Spring Security</td><td>básico/intermediário</td></tr>
+      <tr><td>Autenticação e autorização</td><td>básico/intermediário</td></tr>
+      <tr><td>PostgreSQL e persistência de dados</td><td>intermediário</td></tr>
+      <tr><td>JPA / Hibernate</td><td>básico/intermediário</td></tr>
+      <tr><td>Processamento e transformação de dados</td><td>intermediário</td></tr>
+      <tr><td>Rotinas agendadas e automação</td><td>básico/intermediário</td></tr>
+      <tr><td>Git e GitHub</td><td>intermediário</td></tr>
+    </tbody>
+  </table>
 
   <h3>🤝 Soft Skills trabalhadas</h3>
 
@@ -2021,28 +2041,33 @@ Por fim, a experiência ajudou a desenvolver minha <strong>disciplina técnica</
 
   <h3>💻 Competências técnicas</h3>
 
-  <ul>
-    <li><strong>Product Owner</strong>: avançado</li>
-    <li><strong>Engenharia de requisitos</strong>: avançado</li>
-    <li><strong>Product Backlog e User Stories</strong>: avançado</li>
-    <li><strong>Critérios de aceitação, DoR e DoD</strong>: avançado</li>
-    <li><strong>Data Warehouse</strong>: intermediário/avançado</li>
-    <li><strong>Modelagem dimensional</strong>: intermediário/avançado</li>
-    <li><strong>Modelagem Star Schema / Snowflake</strong>: intermediário</li>
-    <li><strong>ETL / ELT</strong>: intermediário</li>
-    <li><strong>PostgreSQL</strong>: intermediário</li>
-    <li><strong>Python</strong>: intermediário</li>
-    <li><strong>Django</strong>: intermediário</li>
-    <li><strong>Vue.js</strong>: intermediário</li>
-    <li><strong>TypeScript</strong>: intermediário</li>
-    <li><strong>Dashboards e indicadores de negócio</strong>: intermediário/avançado</li>
-    <li><strong>Jira</strong>: avançado</li>
-    <li><strong>Rastreabilidade de requisitos</strong>: avançado</li>
-    <li><strong>Git e GitHub</strong>: avançado</li>
-    <li><strong>GitHub Actions</strong>: básico/intermediário</li>
-    <li><strong>Testes e qualidade de software</strong>: básico/intermediário</li>
-    <li><strong>Análise estática de código</strong>: básico/intermediário</li>
-  </ul>
+  <table>
+    <thead>
+      <tr><th>Competência</th><th>Nível</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Product Owner</td><td>avançado</td></tr>
+      <tr><td>Engenharia de requisitos</td><td>avançado</td></tr>
+      <tr><td>Product Backlog e User Stories</td><td>avançado</td></tr>
+      <tr><td>Critérios de aceitação, DoR e DoD</td><td>avançado</td></tr>
+      <tr><td>Data Warehouse</td><td>intermediário/avançado</td></tr>
+      <tr><td>Modelagem dimensional</td><td>intermediário/avançado</td></tr>
+      <tr><td>Modelagem Star Schema / Snowflake</td><td>intermediário</td></tr>
+      <tr><td>ETL / ELT</td><td>intermediário</td></tr>
+      <tr><td>PostgreSQL</td><td>intermediário</td></tr>
+      <tr><td>Python</td><td>intermediário</td></tr>
+      <tr><td>Django</td><td>intermediário</td></tr>
+      <tr><td>Vue.js</td><td>intermediário</td></tr>
+      <tr><td>TypeScript</td><td>intermediário</td></tr>
+      <tr><td>Dashboards e indicadores de negócio</td><td>intermediário/avançado</td></tr>
+      <tr><td>Jira</td><td>avançado</td></tr>
+      <tr><td>Rastreabilidade de requisitos</td><td>avançado</td></tr>
+      <tr><td>Git e GitHub</td><td>avançado</td></tr>
+      <tr><td>GitHub Actions</td><td>básico/intermediário</td></tr>
+      <tr><td>Testes e qualidade de software</td><td>básico/intermediário</td></tr>
+      <tr><td>Análise estática de código</td><td>básico/intermediário</td></tr>
+    </tbody>
+  </table>
 
   <h3>🤝 Soft Skills trabalhadas</h3>
   <p align="justify">
