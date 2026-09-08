@@ -124,6 +124,8 @@ Com essa experiência, passei a enxergar a programação menos como a escrita de
 
   </p>
 
+  <p align="justify"><b>Competências desenvolvidas:</b> Lógica de programação (básico/intermediário) · Estruturas condicionais e funções (básico/intermediário) · Validação de entradas (básico/intermediário) · Tratamento de erros (básico/intermediário) · Aplicações de terminal (básico/intermediário) · Conversão entre bases numéricas (básico/intermediário).</p>
+
 </details>
 
 <br>
@@ -150,6 +152,8 @@ Ainda considero meu conhecimento de TypeScript inicial, mas essa experiência fo
 
   </p>
 
+  <p align="justify"><b>Competências desenvolvidas:</b> TypeScript (básico) · Modularização de código (básico).</p>
+
 </details>
 
 <br>
@@ -175,6 +179,8 @@ Aprendi a utilizar commits, acompanhar alterações, integrar diferentes partes 
 Foi também um primeiro contato com uma prática que se tornou fundamental nos projetos seguintes: <strong>organizar o desenvolvimento de forma que outras pessoas consigam acompanhar, revisar e integrar aquilo que foi produzido</strong>.
 
   </p>
+
+  <p align="justify"><b>Competências desenvolvidas:</b> Git e GitHub (básico/intermediário).</p>
 
 </details>
 
@@ -237,42 +243,7 @@ Foi também um primeiro contato com uma prática que se tornou fundamental nos p
 
   <br>
 
-  <h2> 📚 Competências desenvolvidas </h2>
-
-  <h3>💻 Competências técnicas</h3>
-
-  <table>
-    <thead>
-      <tr><th>Competência</th><th>Nível</th></tr>
-    </thead>
-    <tbody>
-      <tr><td>Lógica de programação</td><td>básico/intermediário</td></tr>
-      <tr><td>TypeScript</td><td>básico</td></tr>
-      <tr><td>Git e GitHub</td><td>básico/intermediário</td></tr>
-      <tr><td>Estruturas condicionais e funções</td><td>básico/intermediário</td></tr>
-      <tr><td>Validação de entradas</td><td>básico/intermediário</td></tr>
-      <tr><td>Tratamento de erros</td><td>básico/intermediário</td></tr>
-      <tr><td>Modularização de código</td><td>básico</td></tr>
-      <tr><td>Aplicações de terminal</td><td>básico/intermediário</td></tr>
-      <tr><td>Conversão entre bases numéricas</td><td>básico/intermediário</td></tr>
-    </tbody>
-  </table>
-
-  <h3>🤝 Soft Skills trabalhadas</h3>
-
-  <p align="justify">
-    Esse projeto desenvolveu principalmente minha <strong>capacidade de colaboração, adaptação e organização</strong>. Conectar ao menu principal funções escritas por outros integrantes mostrou que o desenvolvimento em equipe exige comunicação constante e atenção ao impacto que cada alteração pode causar nas demais partes do sistema.
-  </p>
-
-  <p align="justify">
-    Também desenvolvi uma visão mais estruturada sobre <strong>processos de desenvolvimento</strong>. Passar por sprints, entregas incrementais e pela migração de VisualG para TypeScript mostrou que construir software envolve muito mais do que implementar funcionalidades: é necessário organizar o trabalho, acompanhar sua evolução e integrar diferentes contribuições em uma única solução.
-  </p>
-
-  <p align="justify">
-    Por fim, a experiência ajudou a desenvolver minha <strong>disciplina técnica</strong>. Ter que voltar várias vezes à validação da divisão e das conversões até que os cenários de erro estivessem cobertos me fez entender que uma boa implementação precisa considerar tanto o funcionamento esperado quanto os cenários que podem gerar problemas. Foi uma experiência inicial, mas importante para estabelecer a base técnica e profissional que seria aprofundada nos projetos seguintes.
-  </p>
-
-</details>
+  </details>
 
 <!-- 2º Semestre -->
 <hr>
@@ -364,7 +335,9 @@ Foi também um primeiro contato com uma prática que se tornou fundamental nos p
     <p align="justify">
       Também comecei a compreender melhor o papel do Product Owner como uma ponte entre a necessidade do produto e o trabalho do time. Mesmo estando em uma experiência acadêmica e inicial nessa função, esse foi um contato importante com <strong>priorização, organização de entregas, acompanhamento de requisitos e tomada de decisões sob a perspectiva do produto</strong>.
     </p>
-  </details>
+    <p align="justify"><b>Competências desenvolvidas:</b> Product Owner (básico/intermediário) · Gestão de produto (básico/intermediário) · Escrita de user stories (básico/intermediário) · Análise e organização de requisitos (básico/intermediário).</p>
+
+</details>
 
   <br>
   
@@ -379,7 +352,9 @@ Foi também um primeiro contato com uma prática que se tornou fundamental nos p
     <p align="justify">
       Essa experiência desenvolveu minha capacidade de transformar informações do projeto em uma documentação mais estruturada, algo que se tornou especialmente relevante para minha atuação posterior em funções que envolvem requisitos, organização e comunicação entre diferentes áreas.
     </p>
-  </details>
+    <p align="justify"><b>Competências desenvolvidas:</b> Documentação de software (intermediário) · README e documentação técnica (intermediário).</p>
+
+</details>
 
    <br>
 
@@ -394,7 +369,9 @@ Foi também um primeiro contato com uma prática que se tornou fundamental nos p
     <p align="justify">
       Foi também um passo importante para desenvolver minha capacidade de <strong>ler e interpretar artefatos técnicos</strong>, conectando aquilo que estava sendo documentado com o comportamento esperado do produto.
     </p>
-  </details>
+    <p align="justify"><b>Competências desenvolvidas:</b> Leitura e interpretação de artefatos técnicos (DER, wireframes) (básico).</p>
+
+</details>
 
   <br>
 
@@ -409,7 +386,9 @@ Foi também um primeiro contato com uma prática que se tornou fundamental nos p
     <p align="justify">
       Essa experiência ampliou minha compreensão sobre <strong>desenvolvimento ágil</strong> e me deu uma visão inicial de como diferentes papéis dentro de um time contribuem para transformar uma ideia em uma entrega estruturada.
     </p>
-  </details>
+    <p align="justify"><b>Competências desenvolvidas:</b> Scrum e desenvolvimento ágil (básico/intermediário) · Burndown e acompanhamento de sprints (básico/intermediário).</p>
+
+</details>
 
   <h2> 🤝 Soft Skills </h2>
 
@@ -489,46 +468,7 @@ Foi também um primeiro contato com uma prática que se tornou fundamental nos p
 
   <br>
 
-  <h2> 📚 Competências desenvolvidas </h2>
-
-  <h3>💻 Competências técnicas</h3>
-
-  <table>
-    <thead>
-      <tr><th>Competência</th><th>Nível</th></tr>
-    </thead>
-    <tbody>
-      <tr><td>Product Owner</td><td>básico/intermediário</td></tr>
-      <tr><td>Gestão de produto</td><td>básico/intermediário</td></tr>
-      <tr><td>Scrum e desenvolvimento ágil</td><td>básico/intermediário</td></tr>
-      <tr><td>Escrita de user stories</td><td>básico/intermediário</td></tr>
-      <tr><td>Documentação de software</td><td>intermediário</td></tr>
-      <tr><td>README e documentação técnica</td><td>intermediário</td></tr>
-      <tr><td>Leitura e interpretação de artefatos técnicos (DER, wireframes)</td><td>básico</td></tr>
-      <tr><td>Burndown e acompanhamento de sprints</td><td>básico/intermediário</td></tr>
-      <tr><td>Análise e organização de requisitos</td><td>básico/intermediário</td></tr>
-    </tbody>
-  </table>
-
-  <h3>🤝 Soft Skills trabalhadas</h3>
-
-  <p align="justify">
-    Esse semestre representou uma mudança importante na minha forma de participar de um projeto. Depois de ter atuado principalmente como desenvolvedor no primeiro semestre, assumir o papel de <strong>Product Owner</strong> me obrigou a desenvolver uma visão mais ampla, considerando não apenas como uma funcionalidade seria implementada, mas também qual era seu propósito dentro do produto.
-  </p>
-
-  <p align="justify">
-    A experiência desenvolveu principalmente minha <strong>comunicação, organização e visão sistêmica</strong>. Escrever as user stories, acompanhar os burndowns e manter o README atualizado exigiu atenção simultânea a diferentes partes do projeto e me levou a contribuir para que o time tivesse clareza sobre a solução que estava sendo construída.
-  </p>
-
-  <p align="justify">
-    Também foi um momento importante para desenvolver <strong>autonomia e responsabilidade</strong>. Como PO, passei a ter uma participação mais ativa na organização do produto e comecei a entender melhor como decisões de negócio, requisitos, documentação e desenvolvimento se conectam dentro de um projeto de software.
-  </p>
-
-  <p align="justify">
-    Se o primeiro semestre foi principalmente sobre aprender a <strong>construir software</strong>, este segundo semestre começou a me ensinar a <strong>entender, organizar e direcionar o software que está sendo construído</strong>. Essa mudança de perspectiva foi uma das principais contribuições do PACER para minha formação.
-  </p>
-
-</details>
+  </details>
 
 <!-- 3º Semestre -->
 <hr>
@@ -626,7 +566,9 @@ Foi também um primeiro contato com uma prática que se tornou fundamental nos p
     <p align="justify">
       Disso resultou uma visão mais madura sobre frontend. Passei a considerar não apenas a aparência ou o funcionamento individual de uma tela, mas também como os componentes se relacionam, como o usuário navega pela aplicação e como a estrutura escolhida pode facilitar a manutenção e a evolução do sistema.
     </p>
-  </details>
+    <p align="justify"><b>Competências desenvolvidas:</b> Vue.js (intermediário) · JavaScript (intermediário) · Arquitetura de frontend (básico/intermediário) · Componentização e reutilização de código (intermediário) · Git e GitHub (intermediário).</p>
+
+</details>
 
   <br>
 
@@ -642,7 +584,9 @@ Foi também um primeiro contato com uma prática que se tornou fundamental nos p
     <p align="justify">
       Essa experiência mudou minha compreensão sobre aplicações web porque comecei a enxergar o sistema como um conjunto de camadas que precisam se comunicar corretamente.
     </p>
-  </details>
+    <p align="justify"><b>Competências desenvolvidas:</b> Consumo de APIs REST (intermediário) · Integração frontend/backend (intermediário) · Autenticação e tokens (básico/intermediário).</p>
+
+</details>
 
   <br>
 
@@ -658,7 +602,9 @@ Foi também um primeiro contato com uma prática que se tornou fundamental nos p
     <p align="justify">
       Também tive contato com tratamento de exceções e diferentes respostas HTTP, entendendo melhor como o backend deve comunicar erros e resultados para quem está consumindo a API. Essa experiência contribuiu para desenvolver uma visão mais completa do ciclo de uma requisição, desde a interação do usuário até o processamento e persistência dos dados.
     </p>
-  </details>
+    <p align="justify"><b>Competências desenvolvidas:</b> Java (básico/intermediário) · Spring Boot (básico/intermediário).</p>
+
+</details>
 
   <br>
 
@@ -674,7 +620,9 @@ Foi também um primeiro contato com uma prática que se tornou fundamental nos p
     <p align="justify">
       Foi o que consolidou minha compreensão sobre o caminho dos dados dentro de uma aplicação: <strong>o usuário gera uma ação, o frontend realiza uma requisição, o backend processa a regra de negócio, o banco fornece ou armazena os dados e o resultado retorna para a interface</strong>.
     </p>
-  </details>
+    <p align="justify"><b>Competências desenvolvidas:</b> PostgreSQL (básico/intermediário) · Supabase (básico/intermediário).</p>
+
+</details>
 
   <br>
 
@@ -691,7 +639,9 @@ Foi também um primeiro contato com uma prática que se tornou fundamental nos p
       Essa experiência fortaleceu minha capacidade de transformar uma necessidade do negócio em uma implementação técnica. Além de escrever funções para calcular horários, precisei compreender <strong>qual comportamento o sistema deveria apresentar em cada cenário</strong> e garantir que essa regra fosse refletida corretamente no código.
     </p>
 
-  </details>
+    <p align="justify"><b>Competências desenvolvidas:</b> Regras de negócio (básico/intermediário) · Manipulação e cálculo de datas e horários (básico/intermediário).</p>
+
+</details>
 
   <h2> 🤝 Soft Skills </h2>
 
@@ -771,51 +721,7 @@ Foi também um primeiro contato com uma prática que se tornou fundamental nos p
 
   <br>
 
-  <h2> 📚 Competências desenvolvidas </h2>
-
-  <h3>💻 Competências técnicas</h3>
-
-  <table>
-    <thead>
-      <tr><th>Competência</th><th>Nível</th></tr>
-    </thead>
-    <tbody>
-      <tr><td>Vue.js</td><td>intermediário</td></tr>
-      <tr><td>JavaScript</td><td>intermediário</td></tr>
-      <tr><td>Java</td><td>básico/intermediário</td></tr>
-      <tr><td>Spring Boot</td><td>básico/intermediário</td></tr>
-      <tr><td>PostgreSQL</td><td>básico/intermediário</td></tr>
-      <tr><td>Supabase</td><td>básico/intermediário</td></tr>
-      <tr><td>Consumo de APIs REST</td><td>intermediário</td></tr>
-      <tr><td>Integração frontend/backend</td><td>intermediário</td></tr>
-      <tr><td>Autenticação e tokens</td><td>básico/intermediário</td></tr>
-      <tr><td>Arquitetura de frontend</td><td>básico/intermediário</td></tr>
-      <tr><td>Componentização e reutilização de código</td><td>intermediário</td></tr>
-      <tr><td>Regras de negócio</td><td>básico/intermediário</td></tr>
-      <tr><td>Manipulação e cálculo de datas e horários</td><td>básico/intermediário</td></tr>
-      <tr><td>Git e GitHub</td><td>intermediário</td></tr>
-    </tbody>
-  </table>
-
-  <h3>🤝 Soft Skills trabalhadas</h3>
-
-  <p align="justify">
-    O terceiro semestre representou uma evolução importante na minha experiência como desenvolvedor. Depois de trabalhar com fundamentos de programação e, posteriormente, assumir uma primeira experiência como Product Owner, no Pontual passei a atuar em uma aplicação web mais completa, com diferentes camadas e regras de negócio.
-  </p>
-
-  <p align="justify">
-    A principal habilidade desenvolvida foi minha <strong>visão sistêmica</strong>. Trabalhar simultaneamente com a estrutura do frontend, a integração com a API, os serviços do backend e o Supabase me obrigou a compreender como diferentes partes de uma aplicação se relacionam. Uma funcionalidade deixou de ser apenas uma tela ou uma função e passou a representar um fluxo completo de dados e regras.
-  </p>
-
-  <p align="justify">
-    Também desenvolvi minha <strong>capacidade de resolução de problemas e colaboração técnica</strong>. Os desafios relacionados à folha de ponto, principalmente nos casos de jornadas que atravessavam a meia-noite, exigiram análise, planejamento e atenção aos casos de borda. Ao mesmo tempo, definir a estrutura que os colegas usariam e auxiliá-los na integração com a API mostrou a importância de compartilhar conhecimento e considerar o impacto das próprias decisões sobre o restante do sistema.
-  </p>
-
-  <p align="justify">
-    Se o primeiro semestre foi dedicado principalmente a construir minha base de programação e o segundo me apresentou uma primeira visão de produto, o Pontual me permitiu <strong>conectar essas duas perspectivas com uma experiência técnica mais completa</strong>. Passei a compreender melhor não apenas como implementar uma funcionalidade, mas como ela se encaixa em uma aplicação real, nas regras de negócio e no trabalho de um time de desenvolvimento.
-  </p>
-
-</details>
+  </details>
 
 <!-- 4º Semestre -->
 <hr>
@@ -913,7 +819,9 @@ Foi também um primeiro contato com uma prática que se tornou fundamental nos p
     <p align="justify">
       Essa experiência consolidou uma visão mais prática de arquitetura full stack. Passei a compreender melhor a responsabilidade de cada camada e a importância de manter uma comunicação consistente entre interface, serviços, regras de negócio e banco de dados.
     </p>
-  </details>
+    <p align="justify"><b>Competências desenvolvidas:</b> Desenvolvimento Full Stack (intermediário) · Vue.js 3 (intermediário) · TypeScript (intermediário) · Java 17 (intermediário) · Spring Boot (intermediário) · Git e GitHub (intermediário).</p>
+
+</details>
 
   <br>
 
@@ -929,7 +837,9 @@ Foi também um primeiro contato com uma prática que se tornou fundamental nos p
     <p align="justify">
       Também tive contato com conceitos como <strong>BCrypt, filtros de autenticação, permissões por role e respostas HTTP relacionadas a acesso</strong>. Desde então, procuro tratar segurança como uma parte estrutural da aplicação, e não como uma funcionalidade adicional implementada depois.
     </p>
-  </details>
+    <p align="justify"><b>Competências desenvolvidas:</b> Autenticação e autorização (básico/intermediário) · JWT (básico/intermediário) · Spring Security (básico/intermediário).</p>
+
+</details>
 
   <br>
 
@@ -945,7 +855,9 @@ Foi também um primeiro contato com uma prática que se tornou fundamental nos p
     <p align="justify">
       Essa experiência me ajudou a compreender melhor conceitos como <strong>contratos de API, DTOs, tratamento de respostas, serialização de dados e separação entre responsabilidades</strong>. Também desenvolvi uma maior atenção aos efeitos que uma alteração em um endpoint pode causar nas demais camadas do sistema.
     </p>
-  </details>
+    <p align="justify"><b>Competências desenvolvidas:</b> APIs REST (intermediário) · Integração frontend/backend (intermediário).</p>
+
+</details>
 
   <br>
 
@@ -961,7 +873,9 @@ Foi também um primeiro contato com uma prática que se tornou fundamental nos p
     <p align="justify">
       Esse aprendizado ampliou minha compreensão sobre sistemas que dependem de <strong>pipelines de processamento, tarefas agendadas e persistência contínua</strong>. Passei a perceber melhor como aplicações podem combinar interações em tempo real com processos automatizados responsáveis por manter o estado do sistema atualizado.
     </p>
-  </details>
+    <p align="justify"><b>Competências desenvolvidas:</b> Processamento e transformação de dados (intermediário) · Rotinas agendadas e automação (básico/intermediário).</p>
+
+</details>
 
   <br>
 
@@ -977,7 +891,9 @@ Foi também um primeiro contato com uma prática que se tornou fundamental nos p
     <p align="justify">
       Essa experiência fortaleceu minha capacidade de trabalhar com <strong>dados como parte de uma regra de negócio</strong>, e não apenas como registros armazenados. Passei a considerar mais cuidadosamente como as informações são persistidas, recuperadas, transformadas e finalmente utilizadas pela aplicação.
     </p>
-  </details>
+    <p align="justify"><b>Competências desenvolvidas:</b> PostgreSQL e persistência de dados (intermediário) · JPA / Hibernate (básico/intermediário).</p>
+
+</details>
 
   <h2> 🤝 Soft Skills </h2>
 
@@ -1053,52 +969,7 @@ Foi também um primeiro contato com uma prática que se tornou fundamental nos p
 
   <br>
 
-  <h2> 📚 Competências desenvolvidas </h2>
-
-  <h3>💻 Competências técnicas</h3>
-
-  <table>
-    <thead>
-      <tr><th>Competência</th><th>Nível</th></tr>
-    </thead>
-    <tbody>
-      <tr><td>Vue.js 3</td><td>intermediário</td></tr>
-      <tr><td>TypeScript</td><td>intermediário</td></tr>
-      <tr><td>Java 17</td><td>intermediário</td></tr>
-      <tr><td>Spring Boot</td><td>intermediário</td></tr>
-      <tr><td>Desenvolvimento Full Stack</td><td>intermediário</td></tr>
-      <tr><td>APIs REST</td><td>intermediário</td></tr>
-      <tr><td>Integração frontend/backend</td><td>intermediário</td></tr>
-      <tr><td>JWT</td><td>básico/intermediário</td></tr>
-      <tr><td>Spring Security</td><td>básico/intermediário</td></tr>
-      <tr><td>Autenticação e autorização</td><td>básico/intermediário</td></tr>
-      <tr><td>PostgreSQL e persistência de dados</td><td>intermediário</td></tr>
-      <tr><td>JPA / Hibernate</td><td>básico/intermediário</td></tr>
-      <tr><td>Processamento e transformação de dados</td><td>intermediário</td></tr>
-      <tr><td>Rotinas agendadas e automação</td><td>básico/intermediário</td></tr>
-      <tr><td>Git e GitHub</td><td>intermediário</td></tr>
-    </tbody>
-  </table>
-
-  <h3>🤝 Soft Skills trabalhadas</h3>
-
-  <p align="justify">
-    O quarto semestre representou uma evolução importante na minha experiência técnica. Depois de construir minha base de programação, experimentar o papel de Product Owner e desenvolver uma aplicação web full stack, no Tráfegou passei a trabalhar com problemas que exigiam uma compreensão mais profunda da relação entre diferentes camadas de um sistema.
-  </p>
-
-  <p align="justify">
-    A principal evolução foi minha <strong>visão sistêmica</strong>. Trabalhar na autenticação, na área administrativa, nos indicadores e na rotina de importação fez com que eu passasse a enxergar as funcionalidades como fluxos completos. Uma entrega precisava funcionar não apenas individualmente, mas também dentro da arquitetura e das dependências existentes.
-  </p>
-
-  <p align="justify">
-    Também desenvolvi mais <strong>autonomia, capacidade de investigação e responsabilidade técnica</strong>. Os conflitos de acesso e as divergências nos indicadores nem sempre estavam concentrados na parte do código em que apareciam, exigindo que eu investigasse diferentes camadas e entendesse o comportamento do sistema antes de definir uma solução.
-  </p>
-
-  <p align="justify">
-    No Tráfegou comecei a consolidar uma atuação mais próxima de um <strong>desenvolvedor full stack</strong>. Passei a conectar desenvolvimento, arquitetura, segurança, dados e regras de negócio em uma mesma entrega, desenvolvendo uma visão mais completa sobre o processo de construção de software.
-  </p>
-
-</details>
+  </details>
 
 <!-- 5º Semestre -->
 <hr>
@@ -1139,7 +1010,7 @@ Foi também um primeiro contato com uma prática que se tornou fundamental nos p
   </p>
 
   <p align="justify">
-    A equipe <b>Steam Ducks</b> teve oito integrantes (Alexander Silva, Carlos Daniel, Felipe Reis, Isabelly Sousa, Mariana Oliveira, Rafaella Cruz, Samuel Prado e eu), organizados segundo o Scrum. Meu papel na equipe foi o de <b>Product Owner</b> e, na distribuição das frentes de DevOps, fiquei responsável pela de <b>ReqTrack (rastreabilidade de requisitos)</b>.
+    A equipe <b>Steam Ducks</b> teve oito integrantes (Alexander Silva, Carlos Daniel, Felipe Reis, Isabelly Sousa, Mariana Oliveira, Rafaella Cruz, Samuel Prado e eu), organizados segundo o Scrum. Meu papel na equipe foi o de <b>Product Owner</b> e, na distribuição das frentes de DevOps, fiquei responsável pela de <b>rastreabilidade de requisitos</b>.
   </p>
 
   <div align="center">
@@ -1187,8 +1058,14 @@ Foi também um primeiro contato com uma prática que se tornou fundamental nos p
     <img src="assets/5_semestre/scar-backlog.png" alt="Product backlog do projeto SCAR">
   </div>
 
+  <h3>⚙️ DevOps: rastreabilidade de requisitos</h3>
+
   <p align="justify">
-    Por fim, dentro da distribuição das práticas de DevOps, fiquei responsável pela frente de <b>ReqTrack</b>. O objetivo era garantir que nenhum requisito levantado com o cliente se perdesse ao longo do desenvolvimento e que fosse sempre possível responder onde cada necessidade do negócio estava sendo atendida. Toda a estrutura foi construída no <b>Jira</b>: escrevi todos os requisitos do sistema e atribuí uma <b>tag</b> a cada um deles; essa tag era referenciada pelos <b>Epics</b>, que estavam conectados às <b>User Stories</b>, e cada história se desdobrava nas <b>Tasks</b> executadas pelo time nas sprints. Conectamos ainda o Jira ao repositório do projeto, o <a href="https://github.com/LuizHRFerreira/strategic-cost-analytics" target="_blank" rel="noopener">strategic-cost-analytics</a>, de forma que commits e branches ficassem vinculados às tasks correspondentes, fechando o ciclo entre o requisito de negócio e o código efetivamente entregue.
+    Dentro da distribuição das frentes de DevOps entre os integrantes, fiquei responsável pela de <b>rastreabilidade de requisitos</b>. Essa frente era necessária porque o SCAR atendia um cliente do setor de defesa, que exige auditabilidade sobre o que é construído, e concentrava um volume grande de requisitos espalhados entre os documentos de levantamento, o backlog e o repositório: sem um mecanismo de rastreabilidade, não haveria como garantir que nenhum requisito se perdesse ao longo do desenvolvimento, nem como responder onde cada necessidade do negócio estava sendo atendida.
+  </p>
+
+  <p align="justify">
+    Como era preciso dar essa garantia, estruturei toda a rastreabilidade no <b>Jira</b>: escrevi todos os requisitos do sistema e atribuí uma <b>tag</b> a cada um deles; essa tag era referenciada pelos <b>Epics</b>, que estavam conectados às <b>User Stories</b>, e cada história se desdobrava nas <b>Tasks</b> executadas pelo time nas sprints. Conectamos ainda o Jira ao repositório do projeto, o <a href="https://github.com/LuizHRFerreira/strategic-cost-analytics" target="_blank" rel="noopener">strategic-cost-analytics</a>, de forma que commits e branches ficassem vinculados às tasks correspondentes, fechando o ciclo entre o requisito de negócio e o código efetivamente entregue.
   </p>
 
   <p><b>Cadeia de rastreabilidade adotada:</b></p>
@@ -1223,7 +1100,9 @@ Foi também um primeiro contato com uma prática que se tornou fundamental nos p
     <p align="justify">
       A experiência aprofundou minha compreensão sobre <strong>engenharia de requisitos, priorização, critérios de aceitação e gestão de escopo</strong>. Também passei a entender melhor o Product Owner como alguém responsável por reduzir a distância entre a necessidade do negócio e aquilo que o time efetivamente consegue construir.
     </p>
-  </details>
+    <p align="justify"><b>Competências desenvolvidas:</b> Product Owner (avançado) · Engenharia de requisitos (avançado) · Levantamento de requisitos com stakeholders (avançado) · Product Backlog e User Stories (avançado) · Critérios de aceitação, DoR e DoD (avançado) · Gestão de escopo e priorização (intermediário/avançado).</p>
+
+</details>
 
   <br>
 
@@ -1242,7 +1121,9 @@ Foi também um primeiro contato com uma prática que se tornou fundamental nos p
     Um dos principais aprendizados foi perceber que a qualidade de um dashboard começa muito antes da camada visual: se uma regra de negócio não estiver bem definida ou se duas fontes forem somadas de maneira inadequada, o indicador final pode parecer correto e ainda assim representar um número incorreto. Passei a enxergar o Data Warehouse como uma <strong>camada de tradução entre os dados operacionais e as perguntas de negócio</strong> que a empresa precisa responder.
   </p>
 
-  </details>
+    <p align="justify"><b>Competências desenvolvidas:</b> Conceitos de Data Warehouse (intermediário).</p>
+
+</details>
 
   <br>
 
@@ -1258,7 +1139,9 @@ Foi também um primeiro contato com uma prática que se tornou fundamental nos p
     <p align="justify">
       Desenvolvi, portanto, uma capacidade maior de <strong>questionar definições, identificar premissas e transformar conceitos abstratos em regras mensuráveis</strong>. Esse aprendizado foi especialmente relevante porque a solução tinha como objetivo apoiar decisões financeiras e, consequentemente, os números apresentados precisavam possuir uma definição clara e rastreável.
     </p>
-  </details>
+    <p align="justify"><b>Competências desenvolvidas:</b> Regras de negócio e indicadores (intermediário/avançado).</p>
+
+</details>
 
   <br>
 
@@ -1273,7 +1156,9 @@ Foi também um primeiro contato com uma prática que se tornou fundamental nos p
     A definição da matriz de perfis de acesso complementou esse trabalho. Mapear o que Super Admin, Financeiro, Compras, Almoxarifado e Projetos podem ver em cada tela me fez tratar <strong>controle de acesso como requisito de produto</strong>, e não apenas como detalhe técnico, algo especialmente importante em um cliente do setor de defesa.
   </p>
 
-  </details>
+    <p align="justify"><b>Competências desenvolvidas:</b> Especificação de telas e perfis de acesso (intermediário/avançado) · Dashboards e indicadores de negócio (intermediário/avançado).</p>
+
+</details>
 
   <br>
 
@@ -1281,7 +1166,7 @@ Foi também um primeiro contato com uma prática que se tornou fundamental nos p
     <summary>🛠️ Rastreabilidade de requisitos e DevOps</summary>
     <hr>
     <p align="justify">
-      Outro avanço relevante foi meu contato com <strong>DevOps por meio da rastreabilidade de requisitos</strong>. Fiquei responsável pela frente de ReqTrack e precisei estruturar uma relação clara entre aquilo que havia sido solicitado pelo cliente e aquilo que efetivamente chegava ao código.
+      Outro avanço relevante foi meu contato com <strong>DevOps por meio da rastreabilidade de requisitos</strong>. Fiquei responsável por essa frente e precisei estruturar uma relação clara entre aquilo que havia sido solicitado pelo cliente e aquilo que efetivamente chegava ao código.
     </p>
     <p align="justify">
       A cadeia formada por requisito, epic, user story, task e branch ou commit me mostrou que rastreabilidade não é apenas uma atividade administrativa. Ela permite responder perguntas importantes sobre o desenvolvimento: de onde veio determinada funcionalidade, qual necessidade ela atende, quem trabalhou nela e onde essa implementação pode ser encontrada.
@@ -1289,7 +1174,9 @@ Foi também um primeiro contato com uma prática que se tornou fundamental nos p
     <p align="justify">
       Essa experiência também mudou minha percepção sobre DevOps. Passei a enxergar a disciplina de forma mais ampla, não apenas como infraestrutura ou deploy, mas como um conjunto de práticas que ajudam a conectar <strong>planejamento, desenvolvimento, qualidade, rastreabilidade e entrega</strong>.
     </p>
-  </details>
+    <p align="justify"><b>Competências desenvolvidas:</b> Rastreabilidade de requisitos (avançado) · Jira (avançado) · Integração Jira e GitHub (intermediário).</p>
+
+</details>
 
   <h2> 🤝 Soft Skills </h2>
 
@@ -1373,7 +1260,7 @@ Foi também um primeiro contato com uma prática que se tornou fundamental nos p
     <summary>🌱 Visão de negócio e visão técnica</summary>
     <hr>
   <p align="justify">
-    Talvez o principal aprendizado deste semestre tenha sido conseguir aproximar duas perspectivas que até então eu vinha desenvolvendo separadamente: <strong>produto e tecnologia</strong>.
+    Definir a fórmula de custo real com o cliente e, em seguida, discutir com o time como o sistema a calcularia resume o principal aprendizado deste semestre: aproximar duas perspectivas que até então eu vinha desenvolvendo separadamente, <strong>produto e tecnologia</strong>.
   </p>
 
   <p align="justify">
@@ -1388,51 +1275,4 @@ Foi também um primeiro contato com uma prática que se tornou fundamental nos p
 
   <br>
 
-  <h2> 📚 Competências desenvolvidas </h2>
-
-  <h3>💻 Competências técnicas</h3>
-
-  <table>
-    <thead>
-      <tr><th>Competência</th><th>Nível</th></tr>
-    </thead>
-    <tbody>
-      <tr><td>Product Owner</td><td>avançado</td></tr>
-      <tr><td>Engenharia de requisitos</td><td>avançado</td></tr>
-      <tr><td>Levantamento de requisitos com stakeholders</td><td>avançado</td></tr>
-      <tr><td>Product Backlog e User Stories</td><td>avançado</td></tr>
-      <tr><td>Critérios de aceitação, DoR e DoD</td><td>avançado</td></tr>
-      <tr><td>Gestão de escopo e priorização</td><td>intermediário/avançado</td></tr>
-      <tr><td>Especificação de telas e perfis de acesso</td><td>intermediário/avançado</td></tr>
-      <tr><td>Regras de negócio e indicadores</td><td>intermediário/avançado</td></tr>
-      <tr><td>Dashboards e indicadores de negócio</td><td>intermediário/avançado</td></tr>
-      <tr><td>Conceitos de Data Warehouse</td><td>intermediário</td></tr>
-      <tr><td>Jira</td><td>avançado</td></tr>
-      <tr><td>Rastreabilidade de requisitos</td><td>avançado</td></tr>
-      <tr><td>Integração Jira e GitHub</td><td>intermediário</td></tr>
-    </tbody>
-  </table>
-
-  <h3>🤝 Soft Skills trabalhadas</h3>
-
-  <p align="justify">
-    O quinto semestre representa um ponto importante na minha formação porque foi o momento em que minha experiência como <strong>Product Owner deixou de ser apenas acadêmica e passou a envolver um problema real de negócio e um stakeholder externo</strong>.
-  </p>
-
-  <p align="justify">
-    A principal evolução foi a combinação entre <strong>visão de negócio e visão técnica</strong>. Para definir o produto, eu precisava entender o que o cliente realmente queria enxergar; para especificá-lo corretamente, precisava compreender o suficiente sobre como os dados e as regras de negócio sustentariam aquela necessidade. Definir com o cliente a fórmula de custo real foi o exemplo mais claro disso: uma definição de negócio que mudava diretamente a qualidade da informação usada para tomada de decisão.
-  </p>
-
-  <p align="justify">
-    Também amadureci minha <strong>comunicação, negociação e capacidade de tomada de decisão</strong>. Trabalhar diretamente com um stakeholder exigiu fazer perguntas melhores, eliminar ambiguidades e negociar prioridades, como no caso do orçamento levado para a segunda sprint, sem perder de vista o objetivo da entrega. Ao mesmo tempo, a responsabilidade pelo backlog e pela rastreabilidade me ensinou a organizar o trabalho de forma que cada entrega pudesse ser relacionada a uma necessidade real.
-  </p>
-
-  <p align="justify">
-    Se os semestres anteriores foram construindo minha base como desenvolvedor e me apresentando ao papel de Product Owner, o SCAR foi o momento em que essas experiências começaram a se conectar. Passei a atuar simultaneamente sobre <strong>produto, requisitos, priorização e rastreabilidade</strong>, desenvolvendo uma visão muito mais próxima da realidade de projetos de software complexos.
-  </p>
-
-  <p align="justify">
-    Este projeto mudou, sobretudo, a forma como eu enxergo meu papel dentro de uma equipe. Passei a perceber que minha contribuição não precisa estar limitada à implementação: posso atuar na definição do problema, na organização da solução, na comunicação com o cliente e na construção das condições necessárias para que o time entregue um produto consistente.
-  </p>
-
-</details>
+  </details>
